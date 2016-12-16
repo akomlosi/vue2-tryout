@@ -1,0 +1,30 @@
+{
+  "name": "vue2-tryout",
+  "version": "1.0.0",
+  "description": "Playing with Vue2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akomlosi/vue2-tryout.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akomlosi/vue2-tryout/issues"
+  },
+  "homepage": "https://github.com/akomlosi/vue2-tryout#readme",
+  "dependencies": {
+    "typescript": "^2.1.4",
+    "vue": "^2.1.6"
+  },
+  "devDependencies": {
+    "css-loader": "^0.26.1",
+    "vue-loader": "^10.0.2",
+    "vue-template-compiler": "^2.1.6",
+    "vue-ts-loader": "0.0.3",
+    "webpack": "^1.14.0"
+  }
+}
